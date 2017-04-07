@@ -1,19 +1,19 @@
-# Cloud Insurance Co. - Overview
+# Cloud Insurance Co. - Visão Geral
 
-Cloud Insurance Co. is a modern insurance company for the 21st century.
+Cloud Insurance Co. é uma companhia moderna de seguros para o século XXI.
 
-The following projects are leveraged in the overall Cloud Insurance Co. solution:
+Os seguintes projetos são alavancados na solução geral da Cloud Insurance Co.:
 
-* [insurance-catalog][catalog_github_url] - An API to retrieve and update a catalog of insurance policies
-* [insurance-orders][orders_github_url] - An API to retrieve and update a list of insurance policy orders made by customers
-* [insurance-bot][bot_github_url] - UI that provides a chat bot interface for users to query their health benefits and file claims.
-* [insurance-bot-dashboard][dashboard_github_url] - A user interface showing an history of the bot chats for further analysis.
-* [insurance-bot-ios][ios_github_url] - An iOS application for the chat bot.
-* [insurance-bot-android][android_github_url] - An Android application for the chat bot.
+* [insurance-catalog][catalog_github_url] - Uma API para recuperar e atualizar um catálogo de apólices de seguro.
+* [insurance-orders][orders_github_url] - Uma API para recuperar e atualizar uma lista de pedidos de apólices feitos por clientes.
+* [insurance-bot][bot_github_url] - UI que provê uma interface de chat bot para os usuários inquerirem seus benefícios de saúde e reivindicar seus arquivos.
+* [insurance-bot-dashboard][dashboard_github_url] - Uma interface de usuário mostrando um histórico das conversas do bot para análise adicional.
+* [insurance-bot-ios][ios_github_url] - Uma aplicação iOS para o chatbot.
+* [insurance-bot-android][android_github_url] - Uma aplicação Android para o chatbot.
 
-## Code Status
+## Status do código
 
-| :point_down: Repositories ... Branches :point_right: | master | dev |
+| :point_down: Repositórios ... Ramos :point_right: | mestre | desenvolvedor |
 | --- | :--- | :--- |
 | [insurance-bot][bot_github_url] | [![Build Status](https://travis-ci.org/IBM-Bluemix/insurance-bot.svg?branch=master)](https://travis-ci.org/IBM-Bluemix/insurance-bot) | [![Build Status](https://travis-ci.org/IBM-Bluemix/insurance-bot.svg?branch=dev)](https://travis-ci.org/IBM-Bluemix/insurance-bot) |
 | [insurance-orders][orders_github_url] | [![Build Status](https://travis-ci.org/IBM-Bluemix/insurance-orders.svg?branch=master)](https://travis-ci.org/IBM-Bluemix/insurance-orders) | [![Build Status](https://travis-ci.org/IBM-Bluemix/insurance-orders.svg?branch=dev)](https://travis-ci.org/IBM-Bluemix/insurance-orders) |
@@ -22,23 +22,23 @@ The following projects are leveraged in the overall Cloud Insurance Co. solution
 | [insurance-bot-ios][ios_github_url] | [![Build Status](https://travis-ci.org/IBM-Bluemix/insurance-bot-ios.svg?branch=master)](https://travis-ci.org/IBM-Bluemix/insurance-bot-ios) | - |
 | [insurance-bot-android][android_github_url] | [![Build Status](https://travis-ci.org/IBM-Bluemix/insurance-bot-android.svg?branch=master)](https://travis-ci.org/IBM-Bluemix/insurance-bot-android) | - |
 
-## Deploy
+## Publique
 
-To deploy the full system all at once, check out the [Cloud Insurance Co. Toolchain][toolchain_github_url]
+Para publicar todo o sistema de uma vez, confira a [Toolchain da Cloud Insurance Co.][toolchain_github_url]
 
-## Architecture
+## Arquitetura
 
-  ![Architecture Diagram](architecture.png)
+  ![Diagrama da arquitetura](architecture.png)
 
-  Visit the [wiki](https://github.com/IBM-Bluemix/cloudco-insurance/wiki) for more details on Cloud Insurance Co. architecture and components.
+  Visite o [wiki](https://github.com/IBM-Bluemix/cloudco-insurance/wiki) para mais detalhes sobre a arquitetura e componentes da Cloud Insurance Co.
 
-## License
+## Licença
 
-See [License.txt](License.txt) for license information.
+Veja [License.txt](License.txt) para informação sobre a licença.
 
-# Privacy Notice
+# Notificação de privacidade
 
-The application is configured to track deployments to [IBM Bluemix](http://www.ibm.com/cloud-computing/bluemix/) and other Cloud Foundry platforms. Refer to the individual projects to understand what information is tracked and how to disable the tracking.
+Essa aplicação é configurada para rastrear seus envios para o [IBM Bluemix](http://www.ibm.com/cloud-computing/bluemix/) e outras plataformas cloud foundry. Entre nos arquivos dos projetos individuais para compreender quais informações são rastreadas e como desabilitar o rastreamento.
 
 [bot_github_url]: https://github.com/IBM-Bluemix/insurance-bot
 [orders_github_url]: https://github.com/IBM-Bluemix/insurance-orders
