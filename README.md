@@ -40,10 +40,10 @@ Veja [License.txt](License.txt) para informação sobre a licença.
 
 Essa aplicação é configurada para rastrear seus envios para o [IBM Bluemix](http://www.ibm.com/cloud-computing/bluemix/) e outras plataformas cloud foundry. Entre nos arquivos dos projetos individuais para compreender quais informações são rastreadas e como desabilitar o rastreamento.
 
-[bot_github_url]: https://github.com/carlosbu/insurance-bot
-[orders_github_url]: https://github.com/carlosbu/insurance-orders
-[catalog_github_url]: https://github.com/carlosbu/insurance-catalog
-[dashboard_github_url]: https://github.com/carlosbu/insurance-bot-dashboard
-[ios_github_url]: https://github.com/carlosbu/insurance-bot-ios
-[android_github_url]: https://github.com/carlosbu/insurance-bot-android
-[toolchain_github_url]: https://github.com/carlosbu/insurance-toolchain
+[bot_github_url]: https://github.com/BluemixBrasil/insurance-bot
+[orders_github_url]: https://github.com/BluemixBrasil/insurance-orders
+[catalog_github_url]: https://github.com/BluemixBrasil/insurance-catalog
+[dashboard_github_url]: https://github.com/BluemixBrasil/insurance-bot-dashboard
+[ios_github_url]: https://github.com/BluemixBrasil/insurance-bot-ios
+[android_github_url]: https://github.com/BluemixBrasil/insurance-bot-android
+[toolchain_github_url]: https://github.com/BluemixBrasil/insurance-toolchain
